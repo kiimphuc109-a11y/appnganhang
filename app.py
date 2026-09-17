@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("logo.jpg")
 # Thiết lập cấu hình trang Streamlit
 st.set_page_config(
     page_title="Công cụ tính tiền tiết kiệm",
